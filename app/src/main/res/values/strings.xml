@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">RetrofitPracticeDemo1</string>
+    <string name="Headers">\@Headers("")注解</string>
+</resources>
